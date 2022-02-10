@@ -1,0 +1,43 @@
+title {
+    text-align: left;
+    color: lightblue;
+}
+
+h1 {
+    text-align: left;
+    color: lightblue;
+}
+
+header {
+    text-align: left;
+    color: lightblue;
+    position: right;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.sidebar {
+    float: right;
+    position: relative;
+}
+
+body
+{float: left;
+text-align: center;
+text-align: justify;
+position: relative;
+line-height: 2;
+color: orchid;
+width: 500px;
+padding: 25px;}
+
+footer {
+    text-align: right;
+    color: darkblue;
+}
+
+
+
